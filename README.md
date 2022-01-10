@@ -1,3 +1,3 @@
 # MySecond_UnityProject
-in HDRP
+in HDRP -
 just for practice purpose
